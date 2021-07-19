@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Unknow - Category - 联合博客</title>
+        <link>http://huxfhk.github.io/categories/unknow/</link>
+        <description>Unknow - Category - 联合博客</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 20 Jul 2021 00:05:50 &#43;0800</lastBuildDate><atom:link href="http://huxfhk.github.io/categories/unknow/" rel="self" type="application/rss+xml" /><item>
+    <title>Test</title>
+    <link>http://huxfhk.github.io/test/</link>
+    <pubDate>Tue, 20 Jul 2021 00:05:50 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://huxfhk.github.io/test/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>
