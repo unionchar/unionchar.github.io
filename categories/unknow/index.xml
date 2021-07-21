@@ -1,14 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Unknow - Category - 联合博客</title>
-        <link>http://huxfhk.github.io/categories/unknow/</link>
-        <description>Unknow - Category - 联合博客</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 20 Jul 2021 00:05:50 &#43;0800</lastBuildDate><atom:link href="http://huxfhk.github.io/categories/unknow/" rel="self" type="application/rss+xml" /><item>
-    <title>Test</title>
-    <link>http://huxfhk.github.io/test/</link>
-    <pubDate>Tue, 20 Jul 2021 00:05:50 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>http://huxfhk.github.io/test/</guid>
-    <description><![CDATA[]]></description>
-</item></channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unknow on Even - A super concise theme for Hugo</title>
+    <link>http://unionchar.github.io/categories/unknow/</link>
+    <description>Recent content in Unknow on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 20 Jul 2021 00:05:50 +0800</lastBuildDate><atom:link href="http://unionchar.github.io/categories/unknow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://unionchar.github.io/post/test/</link>
+      <pubDate>Tue, 20 Jul 2021 00:05:50 +0800</pubDate>
+      
+      <guid>http://unionchar.github.io/post/test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
 </rss>
