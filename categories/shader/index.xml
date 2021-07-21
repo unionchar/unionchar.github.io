@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 一个高质量联合博客</title>
-    <link>http://unionchar.github.io/post/</link>
-    <description>Recent content in Posts on 一个高质量联合博客</description>
+    <title>Shader on 一个高质量联合博客</title>
+    <link>http://unionchar.github.io/categories/shader/</link>
+    <description>Recent content in Shader on 一个高质量联合博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 22 Jul 2021 00:34:54 +0800</lastBuildDate><atom:link href="http://unionchar.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Jul 2021 00:34:54 +0800</lastBuildDate><atom:link href="http://unionchar.github.io/categories/shader/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dissolve</title>
       <link>http://unionchar.github.io/post/graphic/dissolve/</link>

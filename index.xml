@@ -1,28 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Even - A super concise theme for Hugo</title>
+    <title>一个高质量联合博客</title>
     <link>http://unionchar.github.io/</link>
-    <description>Recent content on Even - A super concise theme for Hugo</description>
+    <description>Recent content on 一个高质量联合博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 20 Jul 2021 00:05:50 +0800</lastBuildDate><atom:link href="http://unionchar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Jul 2021 00:34:54 +0800</lastBuildDate><atom:link href="http://unionchar.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
+      <title>Todo</title>
+      <link>http://unionchar.github.io/todo/</link>
+      <pubDate>Thu, 22 Jul 2021 00:13:31 +0800</pubDate>
+      
+      <guid>http://unionchar.github.io/todo/</guid>
+      <description>Sean🧔 建立联合博客 消融效果 软描边 技能流动效果 花🌹 ？？？</description>
+    </item>
+    
+    <item>
+      <title>关于我们</title>
       <link>http://unionchar.github.io/about/</link>
       <pubDate>Tue, 20 Jul 2021 00:00:00 +0800</pubDate>
       
       <guid>http://unionchar.github.io/about/</guid>
-      <description>Hello,这是一个高质量博客。</description>
+      <description>Hello，这是一个高质量联合博客；目前由两人维护。</description>
     </item>
     
     <item>
-      <title>Test</title>
-      <link>http://unionchar.github.io/post/test/</link>
-      <pubDate>Tue, 20 Jul 2021 00:05:50 +0800</pubDate>
+      <title>Dissolve</title>
+      <link>http://unionchar.github.io/post/graphic/dissolve/</link>
+      <pubDate>Thu, 22 Jul 2021 00:34:54 +0800</pubDate>
       
-      <guid>http://unionchar.github.io/post/test/</guid>
-      <description></description>
+      <guid>http://unionchar.github.io/post/graphic/dissolve/</guid>
+      <description>消融效果</description>
     </item>
     
   </channel>
