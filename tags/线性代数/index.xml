@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 一个高质量联合博客</title>
-    <link>http://unionchar.github.io/post/</link>
-    <description>Recent content in Posts on 一个高质量联合博客</description>
+    <title>线性代数 on 一个高质量联合博客</title>
+    <link>http://unionchar.github.io/tags/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/</link>
+    <description>Recent content in 线性代数 on 一个高质量联合博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 23 Jul 2021 00:37:52 +0800</lastBuildDate><atom:link href="http://unionchar.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Jul 2021 00:37:52 +0800</lastBuildDate><atom:link href="http://unionchar.github.io/tags/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>基础线性代数讲座-目录</title>
       <link>http://unionchar.github.io/post/linearalgebrasegadevtech/directory/</link>
@@ -14,15 +14,6 @@
       
       <guid>http://unionchar.github.io/post/linearalgebrasegadevtech/directory/</guid>
       <description>一 序言 1.1 前言 1.2 数学引入：数字概念的扩充 1.2.1 自然数N：一切从这里开始 1.2.2 整数Z：0的发现，负数的引入 1.2.3 有理数Q：分数、小数的引入 1.2.4 实数R：无理数的</description>
-    </item>
-    
-    <item>
-      <title>Dissolve</title>
-      <link>http://unionchar.github.io/post/graphic/dissolve/</link>
-      <pubDate>Thu, 22 Jul 2021 00:34:54 +0800</pubDate>
-      
-      <guid>http://unionchar.github.io/post/graphic/dissolve/</guid>
-      <description>消融效果</description>
     </item>
     
   </channel>

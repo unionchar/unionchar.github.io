@@ -6,14 +6,14 @@
     <description>Recent content on 一个高质量联合博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 22 Jul 2021 00:34:54 +0800</lastBuildDate><atom:link href="http://unionchar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Jul 2021 00:37:52 +0800</lastBuildDate><atom:link href="http://unionchar.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Todo</title>
       <link>http://unionchar.github.io/todo/</link>
       <pubDate>Thu, 22 Jul 2021 00:13:31 +0800</pubDate>
       
       <guid>http://unionchar.github.io/todo/</guid>
-      <description>Sean🧔 建立联合博客 消融效果 软描边 技能流动效果 花🌹 ？？？</description>
+      <description>Sean🧔 建立联合博客 消融效果 软描边 技能流动效果 花🌹 翻译基础线性代数讲座</description>
     </item>
     
     <item>
@@ -23,6 +23,15 @@
       
       <guid>http://unionchar.github.io/about/</guid>
       <description>Hello，这是一个高质量联合博客；目前由两人维护。</description>
+    </item>
+    
+    <item>
+      <title>基础线性代数讲座-目录</title>
+      <link>http://unionchar.github.io/post/linearalgebrasegadevtech/directory/</link>
+      <pubDate>Fri, 23 Jul 2021 00:37:52 +0800</pubDate>
+      
+      <guid>http://unionchar.github.io/post/linearalgebrasegadevtech/directory/</guid>
+      <description>一 序言 1.1 前言 1.2 数学引入：数字概念的扩充 1.2.1 自然数N：一切从这里开始 1.2.2 整数Z：0的发现，负数的引入 1.2.3 有理数Q：分数、小数的引入 1.2.4 实数R：无理数的</description>
     </item>
     
     <item>
